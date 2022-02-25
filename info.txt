@@ -1,0 +1,3 @@
+All the datasets where extracted from the following link
+
+https://www.kaggle.com/knightbearr/sales-product-data
